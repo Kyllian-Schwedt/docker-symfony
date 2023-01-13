@@ -1,0 +1,7 @@
+nginx/cert/*
+logs/*
+database/data/*
+php-fpm/scripts/*
+php-fpm/Dockerfile
+main.conf
+.env
